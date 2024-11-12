@@ -2,3 +2,5 @@
 cipher.txt
 key.txt
 data.csv
+
+*.o
